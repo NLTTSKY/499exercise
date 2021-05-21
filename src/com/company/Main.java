@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Arrays;
-
+//this is a new annotation
 public class Main {
 
     public static void main(String[] args) {
